@@ -1,4 +1,4 @@
-FROM MehrDG/djbase:lastest
+FROM MehrDG/djbase:latest
 
 COPY ./requirements /requirements
 COPY ./src /src
